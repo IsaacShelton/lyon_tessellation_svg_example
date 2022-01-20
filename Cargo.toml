@@ -6,5 +6,6 @@ edition = "2021"
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
 
 [dependencies]
-lyon="*"
+lyon="0.17.10"
 svg="0.10.0"
+enum-display-derive = "0.1.1"
